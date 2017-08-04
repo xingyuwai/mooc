@@ -1,3 +1,3 @@
 # supply & demand
-+ price elasticity = percentage of _change in quanty supplied_  / percentage of _change in price_
++ price elasticity = percentage of __change in quanty supplied__  / percentage of __change in price__
   > long rum elasticity vs short run elasticity
