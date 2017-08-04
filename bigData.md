@@ -1,1 +1,1 @@
-1. The nature of _Intellegence_is **Learning**.
+1. The nature of _Intellegence_ is **Learning**.
