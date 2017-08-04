@@ -1,1 +1,1 @@
-1. The nature of __Intellegence__ is **Learning**.
+1. The nature of _Intellegence_is **Learning**.
