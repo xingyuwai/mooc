@@ -1,0 +1,3 @@
+# freud
+id >>> ego >>> superego
+***
